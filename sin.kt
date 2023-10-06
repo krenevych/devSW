@@ -1,3 +1,3 @@
-import math
+import kotlin.Math
 
-fun mysin() = math.sin()
+fun mysin() = sin()
