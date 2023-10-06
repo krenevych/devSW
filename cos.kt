@@ -1,3 +1,3 @@
 import math
 
-fun mysin() = math.cos()
+fun mycos() = math.cos()
